@@ -1,16 +1,17 @@
-.. Sphinx Test documentation master file, created by
-   sphinx-quickstart on Mon Apr 18 08:28:56 2016.
+.. sphinx-test documentation master file, created by
+   sphinx-quickstart on Mon Apr 18 08:48:48 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Sphinx Test's documentation!
+Welcome to sphinx-test's documentation!
 =======================================
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
 
+   test
 
 
 Indices and tables
