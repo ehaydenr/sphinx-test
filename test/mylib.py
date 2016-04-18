@@ -4,7 +4,7 @@ def calculateTip(total, percentage):
     """Compute Tip
 
     Calculates ``total * percentage``
-    
+
     :param total: The sum to calculate the tip with
     :param percentage: The percentage to tip
     :returns: Amount to tip
@@ -12,6 +12,8 @@ def calculateTip(total, percentage):
     Examples
 
     >>> from test import mylib
+    >>> mylib.calculateTip(200, 15)
+    30.0
     >>> mylib.calculateTip(80, 15)
     12.0
     """
